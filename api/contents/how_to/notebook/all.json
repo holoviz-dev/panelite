@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.521014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.869042Z",
+      "mimetype": null,
+      "name": "jupyterlabpreview.ipynb",
+      "path": "how_to/notebook/jupyterlabpreview.ipynb",
+      "size": 2640,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.521014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.521014Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/notebook/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.521014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.873042Z",
+      "mimetype": null,
+      "name": "notebook.ipynb",
+      "path": "how_to/notebook/notebook.ipynb",
+      "size": 6337,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.521014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.877042Z",
+      "mimetype": null,
+      "name": "other_nb.ipynb",
+      "path": "how_to/notebook/other_nb.ipynb",
+      "size": 3065,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.521014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.521014Z",
+  "mimetype": null,
+  "name": "notebook",
+  "path": "how_to/notebook",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

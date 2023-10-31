@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.121040Z",
+      "mimetype": null,
+      "name": "streaming_bokeh.ipynb",
+      "path": "how_to/callbacks/examples/streaming_bokeh.ipynb",
+      "size": 2554,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.117040Z",
+      "mimetype": null,
+      "name": "streaming_indicator.ipynb",
+      "path": "how_to/callbacks/examples/streaming_indicator.ipynb",
+      "size": 2369,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.125040Z",
+      "mimetype": null,
+      "name": "streaming_perspective.ipynb",
+      "path": "how_to/callbacks/examples/streaming_perspective.ipynb",
+      "size": 2240,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.117040Z",
+      "mimetype": null,
+      "name": "streaming_tabulator.ipynb",
+      "path": "how_to/callbacks/examples/streaming_tabulator.ipynb",
+      "size": 2719,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.501014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.501014Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/callbacks/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

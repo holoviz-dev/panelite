@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.561014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.309039Z",
+      "mimetype": null,
+      "name": "FastGridTemplate.ipynb",
+      "path": "reference/templates/FastGridTemplate.ipynb",
+      "size": 12767,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.309039Z",
+      "mimetype": null,
+      "name": "FastListTemplate.ipynb",
+      "path": "reference/templates/FastListTemplate.ipynb",
+      "size": 12112,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.309039Z",
+      "mimetype": null,
+      "name": "Material.ipynb",
+      "path": "reference/templates/Material.ipynb",
+      "size": 6651,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.313039Z",
+      "mimetype": null,
+      "name": "React.ipynb",
+      "path": "reference/templates/React.ipynb",
+      "size": 8134,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.313039Z",
+      "mimetype": null,
+      "name": "GoldenLayout.ipynb",
+      "path": "reference/templates/GoldenLayout.ipynb",
+      "size": 6731,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.561014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.317039Z",
+      "mimetype": null,
+      "name": "Bootstrap.ipynb",
+      "path": "reference/templates/Bootstrap.ipynb",
+      "size": 6615,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.317039Z",
+      "mimetype": null,
+      "name": "Slides.ipynb",
+      "path": "reference/templates/Slides.ipynb",
+      "size": 8586,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.321039Z",
+      "mimetype": null,
+      "name": "Vanilla.ipynb",
+      "path": "reference/templates/Vanilla.ipynb",
+      "size": 6523,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.565014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.565014Z",
+  "mimetype": null,
+  "name": "templates",
+  "path": "reference/templates",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

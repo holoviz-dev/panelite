@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.537014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.065040Z",
+      "mimetype": null,
+      "name": "load_icon.ipynb",
+      "path": "how_to/styling/load_icon.ipynb",
+      "size": 3263,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.537014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.061040Z",
+      "mimetype": null,
+      "name": "design.ipynb",
+      "path": "how_to/styling/design.ipynb",
+      "size": 3385,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.537014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.077040Z",
+      "mimetype": null,
+      "name": "visibility.ipynb",
+      "path": "how_to/styling/visibility.ipynb",
+      "size": 2690,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.537014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.069041Z",
+      "mimetype": null,
+      "name": "design_variables.ipynb",
+      "path": "how_to/styling/design_variables.ipynb",
+      "size": 5570,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.537014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.061040Z",
+      "mimetype": null,
+      "name": "themes.ipynb",
+      "path": "how_to/styling/themes.ipynb",
+      "size": 2466,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.537014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.073040Z",
+      "mimetype": null,
+      "name": "apply_css.ipynb",
+      "path": "how_to/styling/apply_css.ipynb",
+      "size": 9607,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.537014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.537014Z",
+  "mimetype": null,
+  "name": "styling",
+  "path": "how_to/styling",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

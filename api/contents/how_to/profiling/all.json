@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.529014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.897041Z",
+      "mimetype": null,
+      "name": "admin.ipynb",
+      "path": "how_to/profiling/admin.ipynb",
+      "size": 1995,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.529014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.897041Z",
+      "mimetype": null,
+      "name": "logs.ipynb",
+      "path": "how_to/profiling/logs.ipynb",
+      "size": 1185,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.529014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.897041Z",
+      "mimetype": null,
+      "name": "profile.ipynb",
+      "path": "how_to/profiling/profile.ipynb",
+      "size": 3242,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.529014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.529014Z",
+  "mimetype": null,
+  "name": "profiling",
+  "path": "how_to/profiling",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

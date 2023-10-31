@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.485014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.845042Z",
+      "mimetype": null,
+      "name": "components_overview.ipynb",
+      "path": "explanation/components/components_overview.ipynb",
+      "size": 17146,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.485014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.837042Z",
+      "mimetype": null,
+      "name": "components_custom.ipynb",
+      "path": "explanation/components/components_custom.ipynb",
+      "size": 21819,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.485014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.485014Z",
+  "mimetype": null,
+  "name": "components",
+  "path": "explanation/components",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.481014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.809042Z",
+      "mimetype": null,
+      "name": "compare_dash.ipynb",
+      "path": "explanation/comparisons/compare_dash.ipynb",
+      "size": 3696,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.485014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.809042Z",
+      "mimetype": null,
+      "name": "compare_ipywidgets.ipynb",
+      "path": "explanation/comparisons/compare_ipywidgets.ipynb",
+      "size": 5758,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.485014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.813042Z",
+      "mimetype": null,
+      "name": "compare_js.ipynb",
+      "path": "explanation/comparisons/compare_js.ipynb",
+      "size": 3936,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.481014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.805042Z",
+      "mimetype": null,
+      "name": "compare_bokeh.ipynb",
+      "path": "explanation/comparisons/compare_bokeh.ipynb",
+      "size": 2322,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.485014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.809042Z",
+      "mimetype": null,
+      "name": "compare_streamlit.ipynb",
+      "path": "explanation/comparisons/compare_streamlit.ipynb",
+      "size": 6515,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.485014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.813042Z",
+      "mimetype": null,
+      "name": "compare_voila.ipynb",
+      "path": "explanation/comparisons/compare_voila.ipynb",
+      "size": 5767,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.485014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.485014Z",
+  "mimetype": null,
+  "name": "comparisons",
+  "path": "explanation/comparisons",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

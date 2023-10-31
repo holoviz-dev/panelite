@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.561014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.561014Z",
+      "mimetype": null,
+      "name": "panes",
+      "path": "reference/panes",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.565014Z",
+      "mimetype": null,
+      "name": "templates",
+      "path": "reference/templates",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.553014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.553014Z",
+      "mimetype": null,
+      "name": "layouts",
+      "path": "reference/layouts",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.549014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.549014Z",
+      "mimetype": null,
+      "name": "indicators",
+      "path": "reference/indicators",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.581014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.581014Z",
+      "mimetype": null,
+      "name": "widgets",
+      "path": "reference/widgets",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.545014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.545014Z",
+      "mimetype": null,
+      "name": "global",
+      "path": "reference/global",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.545014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.545014Z",
+      "mimetype": null,
+      "name": "chat",
+      "path": "reference/chat",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.565014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.565014Z",
+  "mimetype": null,
+  "name": "reference",
+  "path": "reference",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

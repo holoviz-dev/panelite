@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.505014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.041041Z",
+      "mimetype": null,
+      "name": "custom_reactiveHTML.ipynb",
+      "path": "how_to/custom_components/custom_reactiveHTML.ipynb",
+      "size": 9774,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.509014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.509014Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/custom_components/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.505014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.041041Z",
+      "mimetype": null,
+      "name": "custom_viewer.ipynb",
+      "path": "how_to/custom_components/custom_viewer.ipynb",
+      "size": 5948,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.505014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.505014Z",
+  "mimetype": null,
+  "name": "custom_components",
+  "path": "how_to/custom_components",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.521014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.965041Z",
+      "mimetype": null,
+      "name": "dependencies.ipynb",
+      "path": "how_to/param/dependencies.ipynb",
+      "size": 7921,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.525014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.957041Z",
+      "mimetype": null,
+      "name": "subobjects.ipynb",
+      "path": "how_to/param/subobjects.ipynb",
+      "size": 7055,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.521014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.965041Z",
+      "mimetype": null,
+      "name": "custom.ipynb",
+      "path": "how_to/param/custom.ipynb",
+      "size": 6118,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.525014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.525014Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/param/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.525014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.973041Z",
+      "mimetype": null,
+      "name": "uis.ipynb",
+      "path": "how_to/param/uis.ipynb",
+      "size": 8024,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.525014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.525014Z",
+  "mimetype": null,
+  "name": "param",
+  "path": "how_to/param",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

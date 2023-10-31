@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "application/manifest+json",
+      "name": "site.webmanifest",
+      "path": "_static/icons/site.webmanifest",
+      "size": 246,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/png",
+      "name": "icon-16x16.png",
+      "path": "_static/icons/icon-16x16.png",
+      "size": 322,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/vnd.microsoft.icon",
+      "name": "favicon.ico",
+      "path": "_static/icons/favicon.ico",
+      "size": 15406,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/png",
+      "name": "icon-512x512.png",
+      "path": "_static/icons/icon-512x512.png",
+      "size": 24584,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/png",
+      "name": "icon-192x192.png",
+      "path": "_static/icons/icon-192x192.png",
+      "size": 5591,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/svg+xml",
+      "name": "icon-vector.svg",
+      "path": "_static/icons/icon-vector.svg",
+      "size": 4600,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.173016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/png",
+      "name": "apple-touch-icon.png",
+      "path": "_static/icons/apple-touch-icon.png",
+      "size": 4956,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.177016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.505296Z",
+      "mimetype": "image/png",
+      "name": "icon-32x32.png",
+      "path": "_static/icons/icon-32x32.png",
+      "size": 615,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.177016Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.177016Z",
+  "mimetype": null,
+  "name": "icons",
+  "path": "_static/icons",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

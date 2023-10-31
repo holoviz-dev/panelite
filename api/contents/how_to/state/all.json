@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.533014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.533014Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/state/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.533014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.021041Z",
+      "mimetype": null,
+      "name": "request.ipynb",
+      "path": "how_to/state/request.ipynb",
+      "size": 1725,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.533014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.021041Z",
+      "mimetype": null,
+      "name": "url.ipynb",
+      "path": "how_to/state/url.ipynb",
+      "size": 4188,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.533014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.021041Z",
+      "mimetype": null,
+      "name": "busy.ipynb",
+      "path": "how_to/state/busy.ipynb",
+      "size": 2599,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.533014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.533014Z",
+  "mimetype": null,
+  "name": "state",
+  "path": "how_to/state",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.481014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:58.805042Z",
+      "mimetype": null,
+      "name": "comms.ipynb",
+      "path": "explanation/comms/comms.ipynb",
+      "size": 982,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.481014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.481014Z",
+  "mimetype": null,
+  "name": "comms",
+  "path": "explanation/comms",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

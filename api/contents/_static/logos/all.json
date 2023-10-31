@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "django.png",
+      "path": "_static/logos/django.png",
+      "size": 7694,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "huggingface.png",
+      "path": "_static/logos/huggingface.png",
+      "size": 24470,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "azure.png",
+      "path": "_static/logos/azure.png",
+      "size": 19567,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "fastapi.png",
+      "path": "_static/logos/fastapi.png",
+      "size": 8042,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "gcp.png",
+      "path": "_static/logos/gcp.png",
+      "size": 14852,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "heroku.png",
+      "path": "_static/logos/heroku.png",
+      "size": 9725,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "flask.png",
+      "path": "_static/logos/flask.png",
+      "size": 12465,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.201016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.521296Z",
+      "mimetype": "image/png",
+      "name": "binder.png",
+      "path": "_static/logos/binder.png",
+      "size": 29485,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.201016Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.201016Z",
+  "mimetype": null,
+  "name": "logos",
+  "path": "_static/logos",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

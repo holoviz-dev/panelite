@@ -1,0 +1,54 @@
+{
+  "bokeh": {
+    "releases": {
+      "3.3.0": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "eb7ab4a6cfdbbbfd2ef7000eb3d8ffb3",
+            "sha256": "ee0380851de3ea6d1e307df94b8173e5c43b8f572f48f96fa4795ea9870939c3"
+          },
+          "downloads": -1,
+          "filename": "bokeh-3.3.0-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "eb7ab4a6cfdbbbfd2ef7000eb3d8ffb3",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.9",
+          "size": 1125064,
+          "upload_time": "2023-10-31T17:10:58.497044Z",
+          "upload_time_iso_8601": "2023-10-31T17:10:58.497044Z",
+          "url": "./bokeh-3.3.0-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "panel": {
+    "releases": {
+      "1.3.1": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "de830e3dc2b4459a3d21e919e11d7ac3",
+            "sha256": "e741ede3139f2c6cc32112012e83470ecfe06d1e031046e381d1d4c094948c57"
+          },
+          "downloads": -1,
+          "filename": "panel-1.3.1-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "de830e3dc2b4459a3d21e919e11d7ac3",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.9",
+          "size": 1183288,
+          "upload_time": "2023-10-31T17:10:58.201046Z",
+          "upload_time_iso_8601": "2023-10-31T17:10:58.201046Z",
+          "url": "./panel-1.3.1-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.209016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.209016Z",
+      "mimetype": null,
+      "name": "_static",
+      "path": "_static",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.489014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.489014Z",
+      "mimetype": null,
+      "name": "explanation",
+      "path": "explanation",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.477014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.477014Z",
+      "mimetype": null,
+      "name": "assets",
+      "path": "assets",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.169016Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:01.577295Z",
+      "mimetype": null,
+      "name": "Getting_Started.ipynb",
+      "path": "Getting_Started.ipynb",
+      "size": 5425,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.477014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.477014Z",
+      "mimetype": null,
+      "name": "developer_guide",
+      "path": "developer_guide",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.493014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.493014Z",
+      "mimetype": null,
+      "name": "getting_started",
+      "path": "getting_started",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.541014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.541014Z",
+      "mimetype": null,
+      "name": "how_to",
+      "path": "how_to",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.493014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.493014Z",
+      "mimetype": null,
+      "name": "gallery",
+      "path": "gallery",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.565014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:11:03.565014Z",
+      "mimetype": null,
+      "name": "reference",
+      "path": "reference",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.541014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.541014Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

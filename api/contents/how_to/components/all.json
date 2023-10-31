@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.141040Z",
+      "mimetype": null,
+      "name": "pane_type.ipynb",
+      "path": "how_to/components/pane_type.ipynb",
+      "size": 1982,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.125040Z",
+      "mimetype": null,
+      "name": "construct_panes.ipynb",
+      "path": "how_to/components/construct_panes.ipynb",
+      "size": 2543,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.501014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.137040Z",
+      "mimetype": null,
+      "name": "add_remove.ipynb",
+      "path": "how_to/components/add_remove.ipynb",
+      "size": 10407,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.505014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.137040Z",
+      "mimetype": null,
+      "name": "widget_values.ipynb",
+      "path": "how_to/components/widget_values.ipynb",
+      "size": 2612,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.505014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.505014Z",
+  "mimetype": null,
+  "name": "components",
+  "path": "how_to/components",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.541014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.025041Z",
+      "mimetype": null,
+      "name": "loadtests.ipynb",
+      "path": "how_to/test/loadtests.ipynb",
+      "size": 10008,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.541014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.029041Z",
+      "mimetype": null,
+      "name": "uitests.ipynb",
+      "path": "how_to/test/uitests.ipynb",
+      "size": 7967,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-10-31T17:11:03.541014Z",
+      "format": null,
+      "last_modified": "2023-10-31T17:10:59.025041Z",
+      "mimetype": null,
+      "name": "pytest.ipynb",
+      "path": "how_to/test/pytest.ipynb",
+      "size": 8656,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-10-31T17:11:03.541014Z",
+  "format": "json",
+  "last_modified": "2023-10-31T17:11:03.541014Z",
+  "mimetype": null,
+  "name": "test",
+  "path": "how_to/test",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
