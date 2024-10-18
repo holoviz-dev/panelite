@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.977944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.721925Z",
+      "mimetype": null,
+      "name": "installation.ipynb",
+      "path": "getting_started/installation.ipynb",
+      "size": 3719,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.977944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.725924Z",
+      "mimetype": null,
+      "name": "build_app.ipynb",
+      "path": "getting_started/build_app.ipynb",
+      "size": 12228,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.977944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.729924Z",
+      "mimetype": null,
+      "name": "core_concepts.ipynb",
+      "path": "getting_started/core_concepts.ipynb",
+      "size": 17890,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-18T15:22:03.977944Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-18T15:22:03.977944Z",
+  "mimetype": null,
+  "name": "getting_started",
+  "path": "getting_started",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

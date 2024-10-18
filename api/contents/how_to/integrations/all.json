@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.977925Z",
+      "mimetype": null,
+      "name": "Django.ipynb",
+      "path": "how_to/integrations/Django.ipynb",
+      "size": 9996,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.977925Z",
+      "mimetype": null,
+      "name": "FastAPI.ipynb",
+      "path": "how_to/integrations/FastAPI.ipynb",
+      "size": 8285,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.977925Z",
+      "mimetype": null,
+      "name": "FastAPI_Tornado.ipynb",
+      "path": "how_to/integrations/FastAPI_Tornado.ipynb",
+      "size": 12274,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.977925Z",
+      "mimetype": null,
+      "name": "flask.ipynb",
+      "path": "how_to/integrations/flask.ipynb",
+      "size": 232,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-18T15:22:04.001944Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-18T15:22:04.001944Z",
+  "mimetype": null,
+  "name": "integrations",
+  "path": "how_to/integrations",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

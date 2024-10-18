@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.845944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:20.997860Z",
+      "mimetype": "text/css",
+      "name": "custom.css",
+      "path": "_static/css/custom.css",
+      "size": 1749,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-18T15:22:03.845944Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-18T15:22:03.845944Z",
+  "mimetype": null,
+  "name": "css",
+  "path": "_static/css",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

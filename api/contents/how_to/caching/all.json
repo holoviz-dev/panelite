@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.981944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.977925Z",
+      "mimetype": null,
+      "name": "memoization.ipynb",
+      "path": "how_to/caching/memoization.ipynb",
+      "size": 3990,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.981944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.981925Z",
+      "mimetype": null,
+      "name": "manual.ipynb",
+      "path": "how_to/caching/manual.ipynb",
+      "size": 2378,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-18T15:22:03.981944Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-18T15:22:03.981944Z",
+  "mimetype": null,
+  "name": "caching",
+  "path": "how_to/caching",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

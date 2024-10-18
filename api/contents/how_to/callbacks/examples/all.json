@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.981944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.901925Z",
+      "mimetype": null,
+      "name": "streaming_indicator.ipynb",
+      "path": "how_to/callbacks/examples/streaming_indicator.ipynb",
+      "size": 1611,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.981944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.901925Z",
+      "mimetype": null,
+      "name": "streaming_perspective.ipynb",
+      "path": "how_to/callbacks/examples/streaming_perspective.ipynb",
+      "size": 1482,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.981944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.897925Z",
+      "mimetype": null,
+      "name": "streaming_bokeh.ipynb",
+      "path": "how_to/callbacks/examples/streaming_bokeh.ipynb",
+      "size": 1796,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:03.981944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:54.901925Z",
+      "mimetype": null,
+      "name": "streaming_tabulator.ipynb",
+      "path": "how_to/callbacks/examples/streaming_tabulator.ipynb",
+      "size": 1956,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-18T15:22:03.981944Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-18T15:22:03.981944Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/callbacks/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

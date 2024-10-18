@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:55.017925Z",
+      "mimetype": null,
+      "name": "embedding.ipynb",
+      "path": "how_to/export/embedding.ipynb",
+      "size": 3042,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:55.021925Z",
+      "mimetype": null,
+      "name": "bokeh.ipynb",
+      "path": "how_to/export/bokeh.ipynb",
+      "size": 1680,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-18T15:22:04.001944Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-10-18T15:21:55.017925Z",
+      "mimetype": null,
+      "name": "saving.ipynb",
+      "path": "how_to/export/saving.ipynb",
+      "size": 1489,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-18T15:22:04.001944Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-10-18T15:22:04.001944Z",
+  "mimetype": null,
+  "name": "export",
+  "path": "how_to/export",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
