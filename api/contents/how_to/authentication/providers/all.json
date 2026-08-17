@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-17T12:27:52.248123Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-17T12:27:43.940220Z",
+      "mimetype": null,
+      "name": "azure.ipynb",
+      "path": "how_to/authentication/providers/azure.ipynb",
+      "size": 3737,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-17T12:27:52.248123Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-17T12:27:52.248123Z",
+  "mimetype": null,
+  "name": "providers",
+  "path": "how_to/authentication/providers",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

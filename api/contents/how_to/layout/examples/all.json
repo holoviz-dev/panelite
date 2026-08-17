@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-17T12:27:52.263290Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-17T12:27:44.018866Z",
+      "mimetype": null,
+      "name": "dynamic_tabs.ipynb",
+      "path": "how_to/layout/examples/dynamic_tabs.ipynb",
+      "size": 9893,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-17T12:27:52.263290Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-17T12:27:52.263290Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/layout/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

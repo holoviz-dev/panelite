@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-17T12:27:52.262732Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-17T12:27:43.941674Z",
+      "mimetype": null,
+      "name": "bind_generators.ipynb",
+      "path": "how_to/interactivity/bind_generators.ipynb",
+      "size": 4487,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-17T12:27:52.262908Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-17T12:27:43.946810Z",
+      "mimetype": null,
+      "name": "hvplot_interactive.ipynb",
+      "path": "how_to/interactivity/hvplot_interactive.ipynb",
+      "size": 7271,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-17T12:27:52.262584Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-17T12:27:43.946866Z",
+      "mimetype": null,
+      "name": "bind_function.ipynb",
+      "path": "how_to/interactivity/bind_function.ipynb",
+      "size": 3188,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-17T12:27:52.262418Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-17T12:27:43.943473Z",
+      "mimetype": null,
+      "name": "bind_component.ipynb",
+      "path": "how_to/interactivity/bind_component.ipynb",
+      "size": 6069,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-17T12:27:52.262833Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-17T12:27:52.262833Z",
+  "mimetype": null,
+  "name": "interactivity",
+  "path": "how_to/interactivity",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
