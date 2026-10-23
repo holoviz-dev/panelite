@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.736817Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:55:49.000342Z",
+      "mimetype": "image/webp",
+      "name": "execution-light.webp",
+      "path": "_static/readme/execution-light.webp",
+      "size": 52874,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.737526Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:55:49.000342Z",
+      "mimetype": "image/webp",
+      "name": "hero-light.webp",
+      "path": "_static/readme/hero-light.webp",
+      "size": 29290,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.737205Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:55:49.000342Z",
+      "mimetype": "image/webp",
+      "name": "hero-dark.webp",
+      "path": "_static/readme/hero-dark.webp",
+      "size": 28962,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.736446Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:55:48.999342Z",
+      "mimetype": "image/webp",
+      "name": "execution-dark.webp",
+      "path": "_static/readme/execution-dark.webp",
+      "size": 53324,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-23T13:56:24.737526Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-23T13:56:24.737526Z",
+  "mimetype": null,
+  "name": "readme",
+  "path": "_static/readme",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

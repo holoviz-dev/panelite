@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.808299Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:56:12.484987Z",
+      "mimetype": null,
+      "name": "subobjects.ipynb",
+      "path": "how_to/param/examples/subobjects.ipynb",
+      "size": 5678,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.807467Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:56:12.482523Z",
+      "mimetype": null,
+      "name": "action_button.ipynb",
+      "path": "how_to/param/examples/action_button.ipynb",
+      "size": 1930,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.807737Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:56:12.482098Z",
+      "mimetype": null,
+      "name": "loading.ipynb",
+      "path": "how_to/param/examples/loading.ipynb",
+      "size": 3058,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-23T13:56:24.808005Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-23T13:56:12.479523Z",
+      "mimetype": null,
+      "name": "precedence.ipynb",
+      "path": "how_to/param/examples/precedence.ipynb",
+      "size": 4962,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-23T13:56:24.808299Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-23T13:56:24.808299Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/param/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
