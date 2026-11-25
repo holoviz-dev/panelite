@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-25T14:41:40.112656Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T14:41:30.113098Z",
+      "mimetype": null,
+      "name": "toga.ipynb",
+      "path": "how_to/desktop_or_mobile/toga.ipynb",
+      "size": 10995,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-25T14:41:40.112453Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T14:41:30.112440Z",
+      "mimetype": null,
+      "name": "pywebview.ipynb",
+      "path": "how_to/desktop_or_mobile/pywebview.ipynb",
+      "size": 7004,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-25T14:41:40.112656Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-25T14:41:40.112656Z",
+  "mimetype": null,
+  "name": "desktop_or_mobile",
+  "path": "how_to/desktop_or_mobile",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

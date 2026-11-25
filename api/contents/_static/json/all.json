@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-25T14:41:40.059750Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T14:41:07.508442Z",
+      "mimetype": "application/json",
+      "name": "vscode-snippets-python.json",
+      "path": "_static/json/vscode-snippets-python.json",
+      "size": 2013,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-25T14:41:40.059750Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-25T14:41:40.059750Z",
+  "mimetype": null,
+  "name": "json",
+  "path": "_static/json",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

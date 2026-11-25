@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-25T14:41:40.088203Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T14:41:30.073240Z",
+      "mimetype": null,
+      "name": "param.ipynb",
+      "path": "explanation/dependencies/param.ipynb",
+      "size": 17644,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-25T14:41:40.087935Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T14:41:30.075066Z",
+      "mimetype": null,
+      "name": "bokeh.ipynb",
+      "path": "explanation/dependencies/bokeh.ipynb",
+      "size": 1367,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-25T14:41:40.088203Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-25T14:41:40.088203Z",
+  "mimetype": null,
+  "name": "dependencies",
+  "path": "explanation/dependencies",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
